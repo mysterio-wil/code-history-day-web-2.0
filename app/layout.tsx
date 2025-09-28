@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Programming Ephemeris Terminal",
+  title: "code history day 2.0",
   description: "Daily programming history and milestones in terminal style",
   generator: "v0.app",
 }
